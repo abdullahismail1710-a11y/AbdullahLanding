@@ -1,0 +1,21 @@
+/* Custom CSS */
+.hero-custom {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: white;
+  height: 100vh;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.btn-custom {
+  background-color: #ff6b6b;
+  color: white;
+  border-radius: 30px;
+  padding: 10px 25px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.btn-custom:hover {
+  background-color: #e63946;
+}
